@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="basic-rules">
+  <title>Basic Rules of Chess</title>
+  <body>
+    <p>Chess is played between two players on an 8x8 board. The objective is to checkmate the opponent’s king.</p>
+    <p>Each player starts with 16 pieces: 1 king, 1 queen, 2 rooks, 2 knights, 2 bishops, and 8 pawns.</p>
+  </body>
+</topic>

@@ -1,0 +1,12 @@
+<topic id="piece-movement">
+    <title>How Pieces Move</title>
+    <body>
+      <p><b>Pawn:</b> Moves forward one square (or two on its first move). Captures diagonally.</p>
+      <p><b>Rook:</b> Moves in straight lines horizontally or vertically.</p>
+      <p><b>Knight:</b> Moves in an “L” shape (two squares in one direction and one in another).</p>
+      <p><b>Bishop:</b> Moves diagonally.</p>
+      <p><b>Queen:</b> Moves in any direction (straight or diagonal).</p>
+      <p><b>King:</b> Moves one square in any direction.</p>
+    </body>
+  </topic>
+  

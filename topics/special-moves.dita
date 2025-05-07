@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="special-moves">
+  <title>Special Moves in Chess</title>
+  <body>
+    <p>Chess includes a few unique moves that are exceptions to normal rules. These are castling, en passant, and promotion.</p>
+
+    <p><b>Castling:</b> A special move involving the king and a rook. Conditions:</p>
+    <ul>
+      <li>Neither the king nor the chosen rook has moved before</li>
+      <li>No pieces between them</li>
+      <li>King is not in check, does not move through or into check</li>
+    </ul>
+    <p>The king moves two squares toward the rook, and the rook moves to the square next to the king.</p>
+
+    <p><b>En Passant:</b> A special pawn capture. If an opponent moves a pawn two squares forward from its starting position and lands next to your pawn, your pawn can capture it “in passing” as if it had only moved one square. This must be done on the very next move.</p>
+
+    <p><b>Promotion:</b> When a pawn reaches the opponent’s back rank (eighth rank for White, first for Black), it must be promoted to any other piece—usually a queen.</p>
+  </body>
+</topic>
