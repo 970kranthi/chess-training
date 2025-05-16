@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map>
-  <title>Chess Rules</title>
-  <topicref href="../topics/basic-rules.dita" navtitle="Basic Rules"/>
-  <topicref href="../topics/piece-movement.dita" navtitle="Piece Movement"/>
-  <topicref href="../topics/check-checkmate.dita" navtitle="Check and Checkmate"/>
-  <topicref href="../topics/special-moves.dita" navtitle="Special Moves"/>
-</map>
